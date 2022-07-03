@@ -51,9 +51,9 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 # Files used
 
--new_york_city.csv
--washington.csv
--chicago.csv
+- new_york_city.csv
+- washington.csv
+- chicago.csv
 
 # Credits
 Udacity
