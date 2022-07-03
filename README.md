@@ -1,8 +1,8 @@
-# Date created
-2022/06/18
-
 # Project Title
 Bikeshare
+
+# Date created
+2022/06/18
 
 # Description
 This project uses data from a bike rental service's, New York, Washington and Chicago stations to understand the most commonly used station, routes and times of use. Two groups may benefit from this project; those who are considering using the service in one of the three listed location and those looking to better understand the adoption rates of said service. The earlier may use the information to plan their own routes and start stations depending on potential availability of bikes due to historically known demand. The later group may be able to gain greater insights on consumer behaviour and the adoption of levels of the service.
