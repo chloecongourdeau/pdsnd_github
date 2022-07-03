@@ -57,9 +57,7 @@ def get_filters():
 
     # get user validation of inputs
     print('-'*70)
-    valid_response = ['yes','restart']
     validation = input("Awesome! The filter you have selected are as follows\n City: {}\n Month: {}\n Day of Week: {}\nIf this is not correct please type 'restart', if you would like to proceed type 'yes'\n".format(city,month,day)).lower()
-    response = check_data_entry(validation,valid_response)
 
     while validation != 'yes':
         city, month, day = get_filters()
@@ -169,9 +167,9 @@ def user_stats(df,city):
     # Display earliest, most recent, and most common year of birth
     if city.lower() != 'washington':
         birth_year = df['Birth Year']
-        print('Earliest birth year:\n',birth_year.max())
-        print('Most recent birth year\n',birth_year.min())
-        print('Most common year of birth\n', birth_year.mode())
+        print('Earliest birth year:\n',int(birth_year.max()))
+        print('Most recent birth year\n',int(birth_year.min()))
+        print('Most common year of birth\n', int(birth_year.mode()))
     else:
         print("Gender count: no data")
     print("\nThis took %s seconds." % (time.time() - start_time))
