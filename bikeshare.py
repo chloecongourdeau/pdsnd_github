@@ -57,9 +57,8 @@ def get_filters():
 
     # get user validation of inputs
     print('-'*70)
-   valid_response = ['yes','restart']
     validation = input("Awesome! The filter you have selected are as follows\n City: {}\n Month: {}\n Day of Week: {}\nIf this is not correct please type 'restart', if you would like to proceed type 'yes'\n".format(city,month,day)).lower()
-    response = check_data_entry(validation,valid_response)
+
     while validation != 'yes':
         city, month, day = get_filters()
         df = load_data(city, month, day)
