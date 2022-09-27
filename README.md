@@ -54,4 +54,4 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 ## Credits
 Udacity
 
-![Bike Giff](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcyclist-life&psig=AOvVaw0F82oUr4KSfvAl5qa52RvD&ust=1664330217950000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi52K_vs_oCFQAAAAAdAAAAABAN)
+![Bike Giff](![image](https://user-images.githubusercontent.com/107009822/192413439-51219b22-33a8-4fbe-a6d1-f26021602f1f.png))
