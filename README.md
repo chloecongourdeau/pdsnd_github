@@ -1,5 +1,4 @@
-# Project Title
-Bikeshare
+# Bikeshare
 
 # Date created
 2022/06/18
