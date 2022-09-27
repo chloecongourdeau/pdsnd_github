@@ -53,5 +53,3 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 ## Credits
 Udacity
-
-![Bike Giff](![image](https://user-images.githubusercontent.com/107009822/192413439-51219b22-33a8-4fbe-a6d1-f26021602f1f.png))
